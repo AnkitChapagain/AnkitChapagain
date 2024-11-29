@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">Passionate About Creating Impactful Solutions For Nepali</h3>
-<img align="right" width="400" scr="https://imgs.search.brave.com/11DWmFuwB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" alt="img">
+<img align="right" width="400" scr="[https://imgs.search.brave.com/11DWmFuwB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)" alt="img">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitchapagain&label=Profile%20views&color=0e75b6&style=flat" alt="ankitchapagain" /> </p>
 
 - 🔭 I’m currently working on **Nepali Sign Language Detection Using CNN and Mediapipe**
